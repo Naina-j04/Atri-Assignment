@@ -133,6 +133,7 @@ Part C – YOLO Pre-trained Model Application
 -Task: crowd management 
 -Model: YOLOv8 
 Demo video link: https://www.youtube.com/watch?v=Hp3uEgkls9E
+Visualizer video: https://drive.google.com/file/d/1BT7SHggHgcI3ss08b5kW1Gp6BwLsSZvz/view?usp=sharing
 
 
 Part D – TensorRT Conversion & Benchmarking
